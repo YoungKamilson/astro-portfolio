@@ -34,7 +34,7 @@ export const info = {
 
   education: [
     {
-      name: "Zespół Szkół Zawowodych w Oleśnicy im. Marii Skłodowskiej-Curie",
+      name: "Zespół Szkół Zawodowych nr 20 w Oleśnicy im. Marii Skłodowskiej-Curie",
       location: "Oleśnica, Dolnośląskie, Poland",
       startDate: "2020",
       endDate: "Present",
