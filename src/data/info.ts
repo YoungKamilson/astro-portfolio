@@ -1,97 +1,98 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
-  name: "Uzair Ahmed",
+  baseUrl: "https://astro-portfolio-uzair.netflify.app",
+  name: "Kamil Kubiczek",
   jobDescription: "Web Developer",
-  about: `I'm a software engineer based in Karachi, Pakistan.
-   I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
-   firebase and React Native with time.
+  about: `I am a 17 year old web developer from Poland who is developing intensively. My passion is creating websites using various technologies. I have several major projects to my credit, such as a new school website for my technical school. I have been continuously developing in the industry for 3 years. I gained knowledge in creating websites with React.js, Vue.js, Nuxt.js, Next.js, Firebase, Strapi, Astro. In my work, I also use Tailwind CSS, which I like, and many bigger or smaller billboards, such as Apollo Graphql, FramerMotion, React Helmet. I always try to choose the right technology for the demand. I encourage you to check out my projects below. You can reach me via email or my socials.
   `,
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
+      name: "ZSZ Team",
+      location: "Oleśnica, Dolnośląskie, Poland",
+      startDate: "Sep 2020",
       endDate: "Present",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "- Managing school website.",
+        "- Developing new websites for school usecases.",
+        "- Fixing issues with school administration system.",
       ],
     },
 
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
+      name: "KL MAT",
+      location: "Wrocław, Dolnośląskie, Poland",
+      startDate: "April 2023",
+      endDate: "Present",
       description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
-      ],
-    },
-
-    {
-      name: "Interns Pakistan",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
-      description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
+        "- Managing klmat.pl website.",
+        "- Managing SEO and fixing issues.",
+        "- Managing Google Ads and brand promotion.",
       ],
     },
   ],
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
-      endDate: "2022",
+      name: "Zespół Szkół Zawowodych w Oleśnicy im. Marii Skłodowskiej-Curie",
+      location: "Oleśnica, Dolnośląskie, Poland",
+      startDate: "2020",
+      endDate: "Present",
       description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
+        "I am currently studying to become an IT technician.",
       ],
-    },
-    {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
-    },
-    {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
-    },
+    }
   ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    facebook: "https://www.facebook.com/profile.php?id=100084483425294",
+    twitter: "",
+    github: "https://github.com/YoungKamilson",
+    email: "lukuku001@gmail.com",
+    linkedin: "",
   },
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: "New ZSZ school website - React.js",
       isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      thumbnail: "/assets/images/schoolWebsite.png",
+      githubUrl: "",
+      liveUrl: "https://zsz.olesnica.pl",
     },
+    {
+      title: "Movie list - Nuxt.js",
+      isFeatured: true,
+      thumbnail: "/assets/images/movies-platform-website.png",
+      githubUrl: "https://github.com/YoungKamilson/movies-platform-nuxt",
+      liveUrl: "https://movies-platform-nuxt.netlify.app/",
+    },
+    {
+      title: "Weather app - React.js",
+      isFeatured: false,
+      thumbnail: "/assets/images/weather-app-website.png",
+      githubUrl: "https://github.com/zsz20olesnica/weather-app",
+      liveUrl: "https://weather-app-2ce6d.web.app/",
+    },
+    {
+      title: "KL MAT shopping website - ShopGold CMS",
+      isFeatured: true,
+      thumbnail: "/assets/images/klmat-website.png",
+      githubUrl: "",
+      liveUrl: "https://klmat.pl",
+    },
+    {
+      title: "School radio - Vue.js",
+      isFeatured: true,
+      thumbnail: "/assets/images/radiowezel-website.png",
+      githubUrl:"",
+      liveUrl: "https://radiowezel.netlify.app/",
+    },
+    {
+      title: "Simply - React.js",
+      isFeatured: false,
+      thumbnail: "/assets/images/simply-app-website.png",
+      githubUrl:"https://github.com/zsz20olesnica/simply",
+      liveUrl: "https://simply-c2c77.web.app/",
+    }
   ],
 };
