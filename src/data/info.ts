@@ -1,12 +1,33 @@
 export const info = {
   baseUrl: "https://kamil-kubiczek.vercel.app",
   name: "Kamil Kubiczek",
-  jobDescription: "Frontend Web Developer",
+  jobDescription: "Frontend Vue/Nuxt Web Developer",
   about: `I am a 17 year old web developer from Poland who is developing intensively. My passion is creating websites using various technologies. I have several major projects to my credit, such as a new school website for my technical school. I have been continuously developing in the industry for 3 years. I gained knowledge in creating websites with React.js, Vue.js, Nuxt.js, Next.js, Firebase, Strapi, Astro. In my work, I also use Tailwind CSS, which I like, and many bigger or smaller libraries, such as Apollo Graphql, FramerMotion, React Helmet. I always try to choose the right technology for the demand. I encourage you to check out my projects below. You can reach me via email or my socials.
   `,
-  keywords: 'kamil kubiczek, kamil kubiczek web developer, kamil kubiczek olesnica strony, kamil kubiczek strony internetowe, website developer portfolio, web developer portfolio, frontend developer portfolio',
+  keywords: 'kamil kubiczek, kamil kubiczek web developer, kamil kubiczek olesnica strony, kamil kubiczek strony internetowe, website developer portfolio, web developer portfolio, frontend developer portfolio, terminal',
 
   experience: [
+      {
+      name: "Terminal",
+      location: "Wrocław, Dolnośląskie, Poland",
+      startDate: "Sep 2023",
+      endDate: "Present",
+      description: [
+        "- Working on innovative crypto AI Nuxt 3 web app.",
+        "- Designing UI/UX of product.",
+        "- Managing web infrastructure and CI/CD.",
+      ],
+    },
+    {
+      name: "Agrisolutions",
+      location: "Wrocław, Dolnośląskie, Poland",
+      startDate: "Aug 2023",
+      endDate: "Present",
+      description: [
+        "- Working on features of Farmster, Farmportal and Foodpass.",
+        "- Fixing bugs with Farmster, Farmportal, Foodpass.",
+      ],
+    },
     {
       name: "ZSZ Team",
       location: "Oleśnica, Dolnośląskie, Poland",
