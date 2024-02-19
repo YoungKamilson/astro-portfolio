@@ -48,11 +48,18 @@ export const info = {
     facebook: "https://www.facebook.com/profile.php?id=100084483425294",
     twitter: "",
     github: "https://github.com/YoungKamilson",
-    email: "lukuku001@gmail.com",
+    email: "kamil.kubiczek7@gmail.com",
     linkedin: "",
   },
 
   projects: [
+     {
+      title: "Terminal - Nuxt 3",
+      isFeatured: true,
+      thumbnail: "/assets/images/terminal_logo.png",
+      githubUrl: "",
+      liveUrl: "https://termin.ai",
+    },
     {
       title: "New ZSZ school website - React.js",
       isFeatured: true,
