@@ -26,6 +26,8 @@ export const info = {
       description: [
         "- Working on features of Farmster, Farmportal and Foodpass.",
         "- Fixing bugs with Farmster, Farmportal, Foodpass.",
+        "- DevOps managment.",
+        "- Managing SEO and quality of websites."
       ],
     },
     {
