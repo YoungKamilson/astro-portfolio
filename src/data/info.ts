@@ -89,39 +89,11 @@ export const info = {
       liveUrl: "https://zsz.olesnica.pl",
     },
     {
-      title: "Movie list - Nuxt.js",
-      isFeatured: true,
-      thumbnail: "/assets/images/movies-platform-website.png",
-      githubUrl: "https://github.com/YoungKamilson/movies-platform-nuxt",
-      liveUrl: "https://movies-platform-nuxt.netlify.app/",
-    },
-    {
-      title: "Weather app - React.js",
-      isFeatured: false,
-      thumbnail: "/assets/images/weather-app-website.png",
-      githubUrl: "https://github.com/zsz20olesnica/weather-app",
-      liveUrl: "https://weather-app-2ce6d.web.app/",
-    },
-    {
       title: "KL MAT shopping website - ShopGold CMS",
       isFeatured: true,
       thumbnail: "/assets/images/klmat-website.png",
       githubUrl: "",
       liveUrl: "https://klmat.pl",
-    },
-    {
-      title: "School radio - Vue.js",
-      isFeatured: true,
-      thumbnail: "/assets/images/radiowezel-website.png",
-      githubUrl:"",
-      liveUrl: "https://radiowezel.netlify.app/",
-    },
-    {
-      title: "Simply - React.js",
-      isFeatured: false,
-      thumbnail: "/assets/images/simply-app-website.png",
-      githubUrl:"https://github.com/zsz20olesnica/simply",
-      liveUrl: "https://simply-c2c77.web.app/",
     }
   ],
 };
