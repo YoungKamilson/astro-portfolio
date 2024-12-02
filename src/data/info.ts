@@ -72,21 +72,21 @@ export const info = {
 
   projects: [
      {
-      title: "Terminal - Nuxt 3",
+      title: "Termin.ai - Nuxt 3",
       isFeatured: true,
       thumbnail: "/assets/images/terminal_logo.png",
       githubUrl: "",
       liveUrl: "https://termin.ai",
     },
     {
-      title: "New ZSZ school website",
+      title: "New school website - React",
       isFeatured: true,
       thumbnail: "/assets/images/schoolWebsite.png",
       githubUrl: "",
       liveUrl: "https://zsz.olesnica.pl",
     },
     {
-      title: "KL MAT shopping website - ShopGold CMS",
+      title: "KL MAT e-commerce - ShopGold CMS",
       isFeatured: true,
       thumbnail: "/assets/images/klmat-website.png",
       githubUrl: "",
