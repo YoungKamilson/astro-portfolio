@@ -13,7 +13,7 @@ export const info = {
       startDate: "Sep 2023",
       endDate: "Present",
       description: [
-         "My responsibilities The project involved the creation of a site to promote the Termin AI project, with a maintaining a retro style, with blog elements. During the work I was the manager of my team, managing it and tasks in the Agile methodology at ClickUp, I was also the main designer of the UI/UX and the main developer from the use of Strapi headless CMS in combination with GraphQL. I took care of the proper SEO of the site, and was also in charge of DevOps. Together with the team, I was also responsible for the design of the next version of the site AI and REST API term in Nuxt 3.",
+         "My responsibilities: The project involved the creation of a site to promote the Termin AI project, with a maintaining a retro style, with blog elements. During the work I was the manager of my team, managing it and tasks in the Agile methodology at ClickUp, I was also the main designer of the UI/UX and the main developer from the use of Strapi headless CMS in combination with GraphQL. I took care of the proper SEO of the site, and was also in charge of DevOps. Together with the team, I was also responsible for the design of the next version of the site AI and REST API term in Nuxt 3. </br>",
         "What I learned: During my work, I learned production use of Nuxt 3 and the REST API based on Nitro.js, built into Nuxt. I also mastered Gitlab and ClickUp in Agile methodology. As a manager, I had to communicate with the client. I encountered many problems during my DevOps work, which I managed to solved. I also administered Linux and the Webuzo panel. During working with Nuxt 3, creating another version of the site, I encountered many problems with Nuxt Markdown, which I managed to solve, despite gaps in the module's documentation."
       ],
     },
@@ -44,7 +44,7 @@ export const info = {
       startDate: "April 2023",
       endDate: "Present",
       description: [
-        "My responsibilities As an employee of KL MAT, I managed an online store based on ShopGold CMS. I added new products, took care of SEO and configured necessary modules on an ongoing basis. I also took care of the site's ads in Google Ads. In addition, I worked on maintaining the store on the hosting platform.",
+        "My responsibilities: As an employee of KL MAT, I managed an online store based on ShopGold CMS. I added new products, took care of SEO and configured necessary modules on an ongoing basis. I also took care of the site's ads in Google Ads. In addition, I worked on maintaining the store on the hosting platform.",
         "What did I learn: I learned how to manage an online store and configure modules, such as a payment gateway, as well as the impact of content quality on SEO. I also learned about the operation of the DNS server for the store's domain."
       ],
     },
